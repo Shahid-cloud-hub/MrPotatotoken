@@ -1,0 +1,122 @@
+html {
+  box-sizing: border-box;
+  background-color: #0d0e12;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Press Start 2P", cursive;
+  font-family: "Outfit", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.css-13cymwt-control {
+  background-color: #000 !important;
+}
+
+.css-1dimb5e-singleValue {
+  color: #ffff !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input:focus,
+input:focus {
+  outline: none;
+}
+
+textarea,
+input,
+button {
+  font-size: 1rem;
+  font-family: inherit;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  box-shadow: 0 0px 1px hsla(0, 0%, 0%, 0.2), 0 1px 2px hsla(0, 0%, 0%, 0.2);
+  background-color: white;
+  line-height: 1.5;
+  margin: 0;
+}
+
+button {
+  color: #3992ff;
+  font-weight: 500;
+}
+
+textarea:hover,
+input:hover,
+button:hover {
+  box-shadow: 0 0px 1px hsla(0, 0%, 0%, 0.6), 0 1px 2px hsla(0, 0%, 0%, 0.2);
+}
+
+button:active {
+  box-shadow: 0 0px 1px hsla(0, 0%, 0%, 0.4);
+  transform: translateY(1px);
+}
+
+#root {
+  background-color: #0d0e12;
+  height: 100%;
+  width: 100%;
+}
+
+.link-item {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  gap: 9px;
+}
+
+.link-item span {
+  display: none;
+  /* transition: all 0.3s; */
+}
+
+/* a:hover span {
+  display: block;
+  transition: all 0.3s;
+} */
+
+.mini-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.ml {
+  margin-left: 9px;
+}
+
+.ml_1 {
+  margin-left: 5px;
+}
+
+.slider-single-content {
+  box-shadow: none !important;
+}

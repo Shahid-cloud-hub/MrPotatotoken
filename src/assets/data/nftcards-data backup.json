@@ -1,0 +1,42 @@
+{
+    "results": [
+        {
+            "title": "181923",
+            "imagebg": "#B6B4DC",
+            "mainimage": "/images/id-card-image.png",
+            "rarityRank": "76281",
+            "metaScore": "310",        
+            "featureScore": "135",
+            "speedScore": "35",
+            "toolsScore": "65",
+            "gradeScore": "65",
+
+            "nftPowers" : [
+                {
+                    "icon": "/images/mint-icon.svg",
+                    "type": "mint",
+                    "cardNum": "10",
+                    "partbg": "#C9C7EC",
+                    "part": "/images/twitter-icon-v2.png",
+                    "link": "0x234....B4fE67aF9"
+                },
+                {
+                    "icon": "/images/mint-icon.svg",
+                    "type": "mint",
+                    "cardNum": "10",
+                    "partbg": "#C9C7EC",
+                    "part": "/images/twitter-icon-v2.png",
+                    "link": "0x234....B4fE67aF9"
+                },
+                {
+                    "icon": "/images/mint-icon.svg",
+                    "type": "mint",
+                    "cardNum": "10",
+                    "partbg": "#C9C7EC",
+                    "part": "/images/twitter-icon-v2.png",
+                    "link": "0x234....B4fE67aF9"
+                }
+            ]
+        }
+    ]
+}
